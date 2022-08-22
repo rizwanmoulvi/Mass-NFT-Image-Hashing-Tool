@@ -2,7 +2,7 @@ Mass-Image-Hashing-Tool-For-NFT-Provenance
 
 ABOUT :
 
-Mass Image Hashing Tool For NFT Provenance is developed to ease the process of building provenance for a NFT project. BTW you can use it for other purposes apart from NFT provenance. Hash thousands of NFT images within seconds, and get an concatenated hash and a final hash according to the starting index obtained from the smart contract. Provenance enhances the fair distribution of NFT tokens. 😇 HAPPY HASHING 🤞
+Mass Image Hashing Tool For NFT Provenance is developed to ease the process of building provenance for a NFT project. BTW you can use it for other purposes apart from NFT provenance. Hash thousands of NFT images within seconds, and get an concatenated hash and a final hash according to the starting index obtained from the smart contract. Provenance enhances the fair distribution of NFT tokens. 
 
 INFO :
 
@@ -22,3 +22,15 @@ WORKING :
 4. Run the tool.
 5. Use the Outputs.
 6. Store the final hash in the smart contract.
+
+Process :
+1. Clone This Repo
+2. Deploy Your Smart Contract With Provenance Functonality To The Blockchain
+3. Get Starting Index From The Smart COntract
+4. Update Starting Index In The Tool
+5. Run The Tool
+
+
+
+😇 HAPPY HASHING 🤞
+
