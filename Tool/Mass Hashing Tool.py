@@ -3,7 +3,7 @@ import hashlib
 
 print("Mass Image Hashing Tool For NFT Provenance","\n")
 
-starting_index = 6  # Change this to the starting index obtained from the smart contract.
+starting_index = 0  # Change this to the starting index obtained from the smart contract.
 
 print("Individual Hashes") # First Hash In Individual Hash List : Image Index Number = 0 
 
