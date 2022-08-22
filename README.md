@@ -12,8 +12,8 @@ Each NFT token ID is assigned to an artwork image from the initial sequence with
 
 REQUIREMENTS :
 
-OS MODULE : PYTHON
-HASHLIB MODULE : PYTHON
+OS MODULE - PYTHON
+HASHLIB MODULE - PYTHON
 
 WORKING :
 1. Change images in the "Tool" directory.
